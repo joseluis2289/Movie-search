@@ -1,0 +1,14 @@
+.modal {
+  display: block; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  width: 70%; /* Full width */
+  height: 80vh; /* Full height */
+  left: 15%;
+  top: 5%;
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: black; /* Black w/ opacity */
+  border-radius: 2%;
+}
